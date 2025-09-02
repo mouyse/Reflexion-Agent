@@ -26,7 +26,7 @@ ReflexionAgent/
 
 ### 1️⃣ Clone the Repository
 ```bash
-git clone https://github.com/mouyse/LangGraph-ReAct-Function-Calling.git
+git clone https://github.com/mouyse/Reflexion-Agent.git
 cd ReflexionAgent
 ```
 
